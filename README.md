@@ -1,2 +1,2 @@
-# Java_Monopoly
+# Monopoly-game-GUI
 Use Java to create monopoly game
